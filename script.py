@@ -1,5 +1,6 @@
 def tic_tac_toe():
     
+    
     data = {}
 
     def move(data, pos):
